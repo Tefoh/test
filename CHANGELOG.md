@@ -1,3 +1,34 @@
+# Version: v1.0.8
+
+
+#### Bug Fixes
+
+* [#20](https://github.com/Tefoh/test/pull/20): test
+
+#### New Features
+
+* [#21](https://github.com/Tefoh/test/pull/21): hello
+
+#### Documentation Updates
+
+* [#23](https://github.com/Tefoh/test/pull/23): Update README.md
+
+#### Other Changes
+
+* [#4](https://github.com/Tefoh/test/pull/4): Test
+* [#9](https://github.com/Tefoh/test/pull/9): Release: v0.0.2
+* [#10](https://github.com/Tefoh/test/pull/10): v0.0.4
+* [#11](https://github.com/Tefoh/test/pull/11): Release: v0.0.4 (01-21-2024)
+* [#12](https://github.com/Tefoh/test/pull/12): Release: v0.0.6 (01-21-2024)
+* [#13](https://github.com/Tefoh/test/pull/13): [Changelog CI] Add Changelog for Version v0.0.7
+* [#14](https://github.com/Tefoh/test/pull/14): [Changelog CI] Add Changelog for Version v0.0.8
+* [#15](https://github.com/Tefoh/test/pull/15): fix: change index.html
+* [#16](https://github.com/Tefoh/test/pull/16): [Changelog CI] Add Changelog for Version v1.0.2
+* [#18](https://github.com/Tefoh/test/pull/18): tes
+* [#19](https://github.com/Tefoh/test/pull/19): bugfix: fix index.html
+* [#22](https://github.com/Tefoh/test/pull/22): [Changelog CI] Add Changelog for Version v1.0.7
+
+
 # Version: v1.0.7
 
 
