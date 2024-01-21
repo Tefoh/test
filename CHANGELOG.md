@@ -1,3 +1,11 @@
+# Version: v2.0.1
+
+
+#### Bug Fixes
+
+* [#29](https://github.com/Tefoh/test/pull/29): new
+
+
 # Version: v1.0.10
 
 
