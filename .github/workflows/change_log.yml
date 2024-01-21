@@ -26,4 +26,4 @@ jobs:
           # such as environment variable or from output of another action
           release_version: ${{ github.ref_name }}
           # Optional
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.REPOSITORY_TOKEN }}
