@@ -1,3 +1,9 @@
+# Version: v2.0.0
+
+* [#26](https://github.com/Tefoh/test/pull/26): CIII
+* [#27](https://github.com/Tefoh/test/pull/27): [Changelog CI] Add Changelog for Version v1.0.10
+* [#28](https://github.com/Tefoh/test/pull/28): mew
+
 # Version: v1.0.10
 
 
@@ -19,6 +25,7 @@
 * [#23](https://github.com/Tefoh/test/pull/23): Update README.md
 
 # Version: v1.0.9
+
 
 * [#4](https://github.com/Tefoh/test/pull/4): Test
 * [#9](https://github.com/Tefoh/test/pull/9): Release: v0.0.2
