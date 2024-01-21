@@ -15,6 +15,8 @@ jobs:
 
       - name: Run Changelog CI
         uses: saadmk11/changelog-ci@v1.1.2
+        env:
+          token: ${{ secrets.REPOSITORY_TOKEN }}
         with:
           config_file: changelog-ci-config.yaml
           committer_username: 'Tefoh'
@@ -26,4 +28,4 @@ jobs:
           # such as environment variable or from output of another action
           release_version: ${{ github.ref_name }}
           # Optional
-          github_token: ${{ secrets.REPOSITORY_TOKEN }}
+          github_token: ${{ env.token }}
