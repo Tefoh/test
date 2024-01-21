@@ -1,3 +1,17 @@
+# Version: v1.0.1
+
+
+#### Other Changes
+
+* [#4](https://github.com/Tefoh/test/pull/4): Test
+* [#9](https://github.com/Tefoh/test/pull/9): Release: v0.0.2
+* [#10](https://github.com/Tefoh/test/pull/10): v0.0.4
+* [#11](https://github.com/Tefoh/test/pull/11): Release: v0.0.4 (01-21-2024)
+* [#12](https://github.com/Tefoh/test/pull/12): Release: v0.0.6 (01-21-2024)
+* [#13](https://github.com/Tefoh/test/pull/13): [Changelog CI] Add Changelog for Version v0.0.7
+* [#14](https://github.com/Tefoh/test/pull/14): [Changelog CI] Add Changelog for Version v0.0.8
+
+
 # Version: v0.0.8
 
 # Version: v0.0.7
