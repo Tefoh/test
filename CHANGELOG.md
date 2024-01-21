@@ -1,3 +1,23 @@
+# Version: v1.0.10
+
+
+#### Bug Fixes
+
+* [#20](https://github.com/Tefoh/test/pull/20): test
+* [#24](https://github.com/Tefoh/test/pull/24): Update index.html
+
+#### Code Improvements
+
+* [#26](https://github.com/Tefoh/test/pull/26): CIII
+
+#### New Features
+
+* [#21](https://github.com/Tefoh/test/pull/21): hello
+
+#### Documentation Updates
+
+* [#23](https://github.com/Tefoh/test/pull/23): Update README.md
+
 # Version: v1.0.9
 
 * [#4](https://github.com/Tefoh/test/pull/4): Test
@@ -16,6 +36,7 @@
 * [#22](https://github.com/Tefoh/test/pull/22): [Changelog CI] Add Changelog for Version v1.0.7
 * [#23](https://github.com/Tefoh/test/pull/23): Update README.md
 * [#24](https://github.com/Tefoh/test/pull/24): Update index.html
+* [#25](https://github.com/Tefoh/test/pull/25): [Changelog CI] Add Changelog for Version v1.0.9
 
 
 # Version: v1.0.7
