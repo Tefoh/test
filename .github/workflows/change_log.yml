@@ -16,3 +16,7 @@ jobs:
         uses: saadmk11/changelog-ci@v1.1.2
         with:
           config_file: changelog-ci-config.yaml
+          committer_username: 'Tefoh'
+          committer_email: 'tefo.ha27@gmail.com'
+          # Optional
+          github_token: ${{ secrets.REPOSITORY_TOKEN }}
