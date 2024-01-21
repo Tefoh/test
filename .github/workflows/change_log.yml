@@ -19,4 +19,4 @@ jobs:
           committer_username: 'Tefoh'
           committer_email: 'tefo.ha27@gmail.com'
           # Optional
-          github_token: ${{ secrets.REPOSITORY_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
