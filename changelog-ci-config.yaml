@@ -2,6 +2,7 @@ changelog_type: 'commit_message'
 header_prefix: 'Version:'
 commit_changelog: true
 comment_changelog: true
+include_unlabeled_changes: true
 group_config:
   - title: Bug Fixes
     labels:
