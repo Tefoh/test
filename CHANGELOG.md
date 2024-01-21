@@ -1,3 +1,15 @@
+# Version: v3.2.0
+
+
+#### Bug Fixes
+
+* [#33](https://github.com/Tefoh/test/pull/33): Update index.html
+
+#### New Features
+
+* [#32](https://github.com/Tefoh/test/pull/32): old
+
+
 # Version: v2.0.1
 
 #### Bug Fixes
