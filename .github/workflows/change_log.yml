@@ -15,7 +15,7 @@ jobs:
       - name: Run Changelog CI
         uses: saadmk11/changelog-ci@v1.1.2
         with:
-          config_file: ../changelog-ci-config.yaml
+          config_file: changelog-ci-config.yaml
           committer_username: 'Tefoh'
           committer_email: 'tefo.ha27@gmail.com'
           # Optional, only required when you want to run Changelog CI 
