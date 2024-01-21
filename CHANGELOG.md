@@ -1,7 +1,5 @@
-# Version: v0.0.5 (01-21-2024)
+# Version: v0.0.4 (01-21-2024)
 
-* [f8c9c65](https://github.com/Tefoh/test/commit/f8c9c65b0eebe19b88f6f77aa28143b544b76a59): [Changelog CI] Add Changelog for Version v0.0.4 (01-21-2024)
-* [c8728af](https://github.com/Tefoh/test/commit/c8728afb4cea36ef0fd46e3299538c82dbcdcf45): feature(docs): hello
 * [f2d6f9e](https://github.com/Tefoh/test/commit/f2d6f9e5cc11e7005b80d3685af286811e2e6877): bug(docs): hello
 * [8a40a3b](https://github.com/Tefoh/test/commit/8a40a3bdb1afea1fbaf21f071cd478a1fa067d81): update version regex
 * [4fb7415](https://github.com/Tefoh/test/commit/4fb741512fcd93570879131cfa05b779ac383dc1): [Changelog CI] Add Changelog for Version 0.0.3
