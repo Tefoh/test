@@ -18,7 +18,7 @@
 
 * [#23](https://github.com/Tefoh/test/pull/23): Update README.md
 
-#### Other Changes
+# Version: v1.0.9
 
 * [#4](https://github.com/Tefoh/test/pull/4): Test
 * [#9](https://github.com/Tefoh/test/pull/9): Release: v0.0.2
@@ -31,7 +31,11 @@
 * [#16](https://github.com/Tefoh/test/pull/16): [Changelog CI] Add Changelog for Version v1.0.2
 * [#18](https://github.com/Tefoh/test/pull/18): tes
 * [#19](https://github.com/Tefoh/test/pull/19): bugfix: fix index.html
+* [#20](https://github.com/Tefoh/test/pull/20): test
+* [#21](https://github.com/Tefoh/test/pull/21): hello
 * [#22](https://github.com/Tefoh/test/pull/22): [Changelog CI] Add Changelog for Version v1.0.7
+* [#23](https://github.com/Tefoh/test/pull/23): Update README.md
+* [#24](https://github.com/Tefoh/test/pull/24): Update index.html
 * [#25](https://github.com/Tefoh/test/pull/25): [Changelog CI] Add Changelog for Version v1.0.9
 
 
