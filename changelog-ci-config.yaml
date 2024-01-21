@@ -1,21 +1,2 @@
 header_prefix: 'Version:'
 commit_changelog: true
-group_config:
-  - title: Bug Fixes
-    labels:
-      - hotfix
-      - bug
-      - bugfix
-  - title: Code Improvements
-    labels:
-      - improvements
-      - enhancement
-  - title: New Features
-    labels:
-      - feature
-      - feat
-  - title: Documentation Updates
-    labels:
-      - docs
-      - documentation
-      - doc
