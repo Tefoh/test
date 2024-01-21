@@ -1,3 +1,5 @@
+# Version: v0.0.8
+
 # Version: v0.0.7
 
 * [f8c9c65](https://github.com/Tefoh/test/commit/f8c9c65b0eebe19b88f6f77aa28143b544b76a59): [Changelog CI] Add Changelog for Version v0.0.4 (01-21-2024)
