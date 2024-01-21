@@ -1,0 +1,28 @@
+name: Changelog CI
+
+on:
+  pull_request:
+    types: [ opened ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository
+      - uses: actions/checkout@v2
+
+      - name: Run Changelog CI
+        uses: saadmk11/changelog-ci@v1.1.2
+        with:
+          config_file: changelog-ci-config.yaml
+          committer_username: 'Tefoh'
+          committer_email: 'tefo.ha27@gmail.com'
+          # Optional, only required when you want to run Changelog CI 
+          # on an event other than `pull_request` event.
+          # In this example `release_version` is fetched from `workflow_dispatch` events input.
+          # You can use any other method to fetch the release version
+          # such as environment variable or from output of another action
+          release_version: ${{ github.event.inputs.release_version }}
+          # Optional
+          github_token: ${{ secrets.REPOSITORY_TOKEN }}
