@@ -1,3 +1,9 @@
+# Version: v2.0.1
+
+#### Bug Fixes
+
+* [#29](https://github.com/Tefoh/test/pull/29): new
+
 # Version: v2.0.0
 
 * [#26](https://github.com/Tefoh/test/pull/26): CIII
